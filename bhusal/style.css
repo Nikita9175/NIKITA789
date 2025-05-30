@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'poppins', 'sans-serif';
+    background-color: #f0f0f0;
+}
+.navbar{
+    background-color: azure;
+    color: black;
+    padding: 18px;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    justify-self: space-around;
+}
+.navbar ul.li{
+    padding: 10px;
+}
+.navbar a:hover{
+    text-decoration: underline;
+    background-color: blanchedalmond;
+    border-radius: 4px;
+}
+.container{
+    max-width: 1200 px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+h1,h2 {
+
+
+}
